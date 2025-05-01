@@ -1,3 +1,4 @@
+![dataset-card](https://github.com/user-attachments/assets/894071a1-9500-47b6-91a4-6d2cbc052da3)
 
 Project Title: Bank Marketing Effectiveness Prediction
 Project Type: Classification
